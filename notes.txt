@@ -1,0 +1,2 @@
+- retirar na boutique não vai existir (por enquanto)
+- tela de cadastro para gerar cupom de clube (por enquanto)
